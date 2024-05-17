@@ -1,0 +1,1 @@
+<link href="<?= BASE_URL ?>public/admin/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
